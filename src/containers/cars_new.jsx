@@ -61,7 +61,7 @@ class CarsNew extends Component {
 
            <button className="btn btn-primary" type="submit"
           disabled={this.props.pristine || this.props.submitting}>
-           Create Post
+           Add new car
            </button>
          </form>
         </div>
